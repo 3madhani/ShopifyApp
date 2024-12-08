@@ -26,4 +26,5 @@
 ![Add Address](assets/app_preview/photo_13_2024-12-02_14-16-04.jpg)
 ![Address](assets/app_preview/photo_12_2024-12-02_14-16-04.jpg)
 ![Product Details](assets/app_preview/photo_10_2024-12-02_14-16-04.jpg)
-![Review and rating](assets/app_preview/photo_9_2024-12-02_14-16-04.jpg)# ShopifyApp
+![Review and rating](assets/app_preview/photo_9_2024-12-02_14-16-04.jpg)
+
